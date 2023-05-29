@@ -29,3 +29,10 @@
   font-weight: 400;
   color: hsl(0deg, 0%, 30%);
 }
+
+
+@media (max-width: 768px) {
+  .controlPane {
+    max-width: 85vw;
+  }
+}
