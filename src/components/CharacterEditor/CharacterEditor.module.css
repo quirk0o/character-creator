@@ -1,4 +1,6 @@
 .characterEditor {
+  position: relative;
+  min-height: 100vh;
   padding-top: 128px;
   padding-bottom: 64px;
 }
